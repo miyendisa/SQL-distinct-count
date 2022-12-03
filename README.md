@@ -1,5 +1,5 @@
 # SQL-Sorgu Senaryoları
-## LIKE - ILIKE
+## DISTINCT - COUNT
 
 
 
